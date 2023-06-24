@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214350663861",
+    "project_id": "zipfood-432a4",
+    "storage_bucket": "zipfood-432a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214350663861:android:664e807addcd0dc00daefc",
+        "android_client_info": {
+          "package_name": "com.brainstormers.zipfood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214350663861-sft737vqa2c1teul6foumtep8s0o78id.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATOWyhxQtRFyyEVJ8kGy3XYPSOQcd6KNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214350663861-sft737vqa2c1teul6foumtep8s0o78id.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

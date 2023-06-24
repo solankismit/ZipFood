@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>214350663861-cr0kd5ja5ffl4cmruk5cns90l8s0o328.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.214350663861-cr0kd5ja5ffl4cmruk5cns90l8s0o328</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCRBf_PoKX2H9SGd5Z0Jre2O_c8gOJw8-I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>214350663861</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brainstormers.zipfood</string>
+	<key>PROJECT_ID</key>
+	<string>zipfood-432a4</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zipfood-432a4.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:214350663861:ios:dd0ba83bb5ade3d10daefc</string>
+</dict>
+</plist>
